@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey there, I'm Vinay Kumar! 👋
 
-<!--
-**VinayByte/VinayByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Android Engineer with an optional brain. 😄 I speak Kotlin fluently, and my Compose skills are so smooth, they'll make your UI sing.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Fluent in Java, Kotlin, and Android. However, Java occasionally gives me the silent treatment. 😄
+  
+```kotlin
+val vinayKumar = androidEngineer {
+    about(name = "Vinay Kumar", role = "Android Engineer")
+    links(linkedIn = "vinay6kr")
+    skills {
+        languages = listOf("Kotlin", "Java")
+        frameworks = listOf("Android", "Jetpack Compose", "Spring Boot")
+        other = listOf("Problem-solving", "UI/UX design", "Git")
+    }
+}
+```
+## Contact
+- 🔗 LinkedIn: [vinay6kr](https://www.linkedin.com/in/vinay6kr/) 
